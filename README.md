@@ -1,5 +1,3 @@
-![Cover](https://github.com/Elracoon/Elracoon/blob/main/4mww1s.png)
-
 # I'm developer Racoon
 ## About me
 
