@@ -1,3 +1,5 @@
+<img src="https://github.com/Elracoon/Elracoon/blob/main/logo.svg" alt="Description de l'image" style="width: 300px; height: 200px;">
+
 # I'm developer Racoon
 ## About me
 
