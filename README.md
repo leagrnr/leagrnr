@@ -1,4 +1,4 @@
-# I'm web developer
+# I'm a web developer
 ## About me
 
 🗺️ Angers/Orléans - 🇫🇷 <br/>
