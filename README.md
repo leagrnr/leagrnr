@@ -21,7 +21,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
-
-</br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leagrnr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
