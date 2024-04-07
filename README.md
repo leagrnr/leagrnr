@@ -4,6 +4,7 @@
 🗺️ Angers/Orléans - 🇫🇷 <br/>
 🏫 My Digital School - Web Developer Bachelor <br/>
 💼 Android developer <br/>
+💻 I'm working on A Profile Video Game in JavaScript
 
 ## My skill
 
