@@ -3,7 +3,6 @@
 
 🗺️ Angers/Orléans - 🇫🇷 <br/>
 🏫 My Digital School - Web Developer Bachelor <br/>
-💼 Android developer <br/>
 💻 I'm working on my Portfolio in VueJs
 
 ## My skill
