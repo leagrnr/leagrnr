@@ -1,7 +1,7 @@
 # I'm a web developer
 ## About me
 
-🗺️ Angers/Orléans - 🇫🇷 <br/>
+🗺️ Angers - 🇫🇷 <br/>
 🏫 My Digital School - Web Developer Bachelor <br/>
 💻 I'm working on my Portfolio in VueJs
 
