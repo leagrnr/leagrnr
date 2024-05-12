@@ -5,7 +5,7 @@
 🏫 My Digital School - Web Developer Bachelor <br/>
 💻 I'm working on my Portfolio in VueJs
 
-## My skill
+## My skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
