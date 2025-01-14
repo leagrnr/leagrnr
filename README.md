@@ -22,10 +22,10 @@
 
 ### Personal 
 
-Anecdotic [Api](https://github.com/leagrnr/anecdotic-api) and [Client](https://github.com/leagrnr/anecdotic) in React and NodeJS.
-[Games Collect Application](https://github.com/leagrnr/games-collect-app) Mobile in Flutter.
+- Anecdotic [Api](https://github.com/leagrnr/anecdotic-api) and [Client](https://github.com/leagrnr/anecdotic) in React and NodeJS.
+- [Games Collect Application](https://github.com/leagrnr/games-collect-app) Mobile in Flutter.
 
 ### Academic
 
-[gpa-api](https://github.com/leagrnr/gpa-api) in NodeJS.
-[Bow Management](https://github.com/leagrnr/box-management) in Laravel.
+- [gpa-api](https://github.com/leagrnr/gpa-api) in NodeJS.
+- [Bow Management](https://github.com/leagrnr/box-management) in Laravel.
