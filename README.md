@@ -17,3 +17,15 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>
 </div>
+
+## Current projects
+
+### Personal 
+
+Anecdotic [Api](https://github.com/leagrnr/anecdotic-api) and [Client](https://github.com/leagrnr/anecdotic) in React and NodeJS.
+[Games Collect Application](https://github.com/leagrnr/games-collect-app) Mobile in Flutter.
+
+### Academic
+
+[gpa-api](https://github.com/leagrnr/gpa-api) in NodeJS.
+[Bow Management](https://github.com/leagrnr/box-management) in Laravel.
