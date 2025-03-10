@@ -22,6 +22,5 @@
 
 ### Personal 
 
-- Anecdotic [Api](https://github.com/leagrnr/anecdotic-api) and [Client](https://github.com/leagrnr/anecdotic) in React and NodeJS.
 - [Games Collect Application](https://github.com/leagrnr/games-collect-app) Mobile in Flutter.
 - [Portfolio](https://github.com/leagrnr/portfolio-v1) in React.
